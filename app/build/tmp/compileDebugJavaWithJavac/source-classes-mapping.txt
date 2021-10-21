@@ -1,0 +1,17 @@
+com/example/myfrags/Fragment4.java
+ com.example.myfrags.Fragment4
+com/example/myfrags/Fragment2.java
+ com.example.myfrags.Fragment2
+com/example/myfrags/Fragment1.java
+ com.example.myfrags.Fragment1
+ com.example.myfrags.Fragment1$1
+ com.example.myfrags.Fragment1$2
+ com.example.myfrags.Fragment1$3
+ com.example.myfrags.Fragment1$4
+ com.example.myfrags.Fragment1$OnButtonClickListener
+com/example/myfrags/BuildConfig.java
+ com.example.myfrags.BuildConfig
+com/example/myfrags/MainActivity.java
+ com.example.myfrags.MainActivity
+com/example/myfrags/Fragment3.java
+ com.example.myfrags.Fragment3
