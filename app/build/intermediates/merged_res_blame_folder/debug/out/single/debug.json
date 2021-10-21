@@ -1,98 +1,98 @@
 [
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_3.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\layout\\fragment_3.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\anim\\fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_out.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\anim\\fade_out.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\anim\\slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_1.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\layout\\fragment_1.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_2.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\layout\\fragment_2.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\anim\\fade_in.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_3.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\layout\\fragment_3.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\layout-land\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_4.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\layout\\fragment_4.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\anim\\slide_out.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_2.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\layout\\fragment_2.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\anim\\fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\layout-land_activity_main.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\anim\\slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\anim\\slide_in.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_1.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\layout\\fragment_1.xml"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_4.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\layout\\fragment_4.xml"
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     }
 ]

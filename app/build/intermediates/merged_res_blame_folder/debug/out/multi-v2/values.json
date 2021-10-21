@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\kacpe\\.gradle\\caches\\transforms-3\\362c21bf486fe36d808c9907a31ee884\\transformed\\coordinatorlayout-28.0.0\\res\\values\\values.xml",
@@ -20,6 +20,23 @@
                         "endLines": "24,2038,2746,2835",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "1128,130558,180920,186131"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,9,10,11,12,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "286,370,417,464,511,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,46,46,46,46,44,44,41",
+                        "endOffsets": "323,412,459,506,553,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "302,311,312,313,314,348,349,350,361,362,365",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "13553,14236,14283,14330,14377,16586,16633,16680,17424,17469,17635",
+                        "endColumns": "41,46,46,46,46,46,46,46,44,44,41",
+                        "endOffsets": "13590,14278,14325,14372,14419,16628,16675,16722,17464,17509,17672"
                     }
                 },
                 {
@@ -61,20 +78,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
-                        "startLines": "1,3,7,4,6,5,2,12,9,10,8",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "16,112,310,167,263,212,61,552,392,439,357",
-                        "endColumns": "44,54,46,44,46,50,50,69,46,54,34",
-                        "endOffsets": "56,162,352,207,305,258,107,617,434,489,387"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "446"
                     },
                     "to": {
-                        "startLines": "548,549,550,551,552,553,554,555,556,557,560",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "29724,29769,29824,29871,29916,29963,30014,30065,30135,30182,30361",
-                        "endColumns": "44,54,46,44,46,50,50,69,46,54,34",
-                        "endOffsets": "29764,29819,29866,29911,29958,30009,30060,30130,30177,30232,30391"
+                        "startLines": "1926",
+                        "startColumns": "4",
+                        "startOffsets": "121686",
+                        "endLines": "1932",
+                        "endColumns": "12",
+                        "endOffsets": "122032"
                     }
                 },
                 {
@@ -95,20 +114,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "7,9,10,11,12,2,3,4,5,6,8",
+                        "startLines": "1,3,7,4,6,5,2,12,9,10,8",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "286,370,417,464,511,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,46,46,46,46,44,44,41",
-                        "endOffsets": "323,412,459,506,553,97,144,191,236,281,365"
+                        "startOffsets": "16,112,310,167,263,212,61,552,392,439,357",
+                        "endColumns": "44,54,46,44,46,50,50,69,46,54,34",
+                        "endOffsets": "56,162,352,207,305,258,107,617,434,489,387"
                     },
                     "to": {
-                        "startLines": "302,311,312,313,314,348,349,350,361,362,365",
+                        "startLines": "548,549,550,551,552,553,554,555,556,557,560",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "13553,14236,14283,14330,14377,16586,16633,16680,17424,17469,17635",
-                        "endColumns": "41,46,46,46,46,46,46,46,44,44,41",
-                        "endOffsets": "13590,14278,14325,14372,14419,16628,16675,16722,17464,17509,17672"
+                        "startOffsets": "29724,29769,29824,29871,29916,29963,30014,30065,30135,30182,30361",
+                        "endColumns": "44,54,46,44,46,50,50,69,46,54,34",
+                        "endOffsets": "29764,29819,29866,29911,29958,30009,30060,30130,30177,30232,30391"
                     }
                 },
                 {
@@ -128,25 +147,6 @@
                         "endLines": "337,338,441,442,443,444,445,446,447,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,484,485,491,492,497,498,499,500,501,502,508,559,1875,1879,1881,1887,1889,2034,2035,2706,2897,2929,2966,2973",
                         "endColumns": "68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "15841,15904,22859,22927,22999,23069,23130,23204,23277,24122,24183,24245,24309,24371,24432,24500,24600,24660,24726,24799,24868,24925,24977,25039,25776,25852,26126,26161,26394,26455,26512,26546,26581,26616,26961,30356,118074,118275,118451,118835,119030,130346,130413,166523,190573,192638,194398,194775"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\MyFrags-Lab3\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "446"
-                    },
-                    "to": {
-                        "startLines": "1926",
-                        "startColumns": "4",
-                        "startOffsets": "121686",
-                        "endLines": "1932",
-                        "endColumns": "12",
-                        "endOffsets": "122032"
                     }
                 }
             ]
