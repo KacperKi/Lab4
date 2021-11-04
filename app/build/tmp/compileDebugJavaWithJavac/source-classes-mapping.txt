@@ -1,5 +1,7 @@
-com/example/myfrags/Fragment4.java
- com.example.myfrags.Fragment4
+com/example/myfrags/Fragment3.java
+ com.example.myfrags.Fragment3
+ com.example.myfrags.Fragment3$1
+ com.example.myfrags.Fragment3$2
 com/example/myfrags/Fragment2.java
  com.example.myfrags.Fragment2
  com.example.myfrags.Fragment2$1
@@ -15,9 +17,9 @@ com/example/myfrags/FragsData.java
  com.example.myfrags.FragsData
 com/example/myfrags/BuildConfig.java
  com.example.myfrags.BuildConfig
+com/example/myfrags/Fragment4.java
+ com.example.myfrags.Fragment4
+ com.example.myfrags.Fragment4$1
+ com.example.myfrags.Fragment4$2
 com/example/myfrags/MainActivity.java
  com.example.myfrags.MainActivity
-com/example/myfrags/Fragment3.java
- com.example.myfrags.Fragment3
- com.example.myfrags.Fragment3$1
- com.example.myfrags.Fragment3$2
