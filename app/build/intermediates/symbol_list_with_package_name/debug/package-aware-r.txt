@@ -2153,7 +2153,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2190,6 +2189,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id wartosc
 id withText
 id withinBounds
 id wrap

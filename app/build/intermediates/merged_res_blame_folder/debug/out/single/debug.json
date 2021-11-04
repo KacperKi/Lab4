@@ -36,12 +36,12 @@
         "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_2.xml.flat",
         "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\src\\main\\res\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\Users\\kacpe\\Desktop\\Aplikacje Android\\Lab4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",

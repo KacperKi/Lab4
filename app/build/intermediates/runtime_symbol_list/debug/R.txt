@@ -2152,7 +2152,6 @@ int id textSpacerNoButtons 0x7f0801b2
 int id textSpacerNoTitle 0x7f0801b3
 int id textStart 0x7f0801b4
 int id textTop 0x7f0801b5
-int id textView 0x7f0801b6
 int id text_input_end_icon 0x7f0801b7
 int id text_input_error_icon 0x7f0801b8
 int id text_input_start_icon 0x7f0801b9
@@ -2189,6 +2188,7 @@ int id view_tree_saved_state_registry_owner 0x7f0801d9
 int id view_tree_view_model_store_owner 0x7f0801da
 int id visible 0x7f0801db
 int id visible_removing_fragment_view_tag 0x7f0801dc
+int id wartosc 0x7f0801e6
 int id withText 0x7f0801de
 int id withinBounds 0x7f0801df
 int id wrap 0x7f0801e0
